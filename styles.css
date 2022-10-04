@@ -1,0 +1,26 @@
+
+
+h1{
+  text-align: center;
+  color:rgb(157, 5, 157);   
+  font-family: Perpetua;
+  border-radius: rgb(123, 222, 70) spx solid;
+  padding: 20px;
+  margin: 30px;
+
+}
+
+img{
+  height: 50px;
+  width: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.hobbies{
+  background-color: tomato; 
+}
+
+
